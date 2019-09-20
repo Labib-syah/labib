@@ -1,0 +1,19 @@
+
+package tugaspraktikum;
+
+
+public class LatihanPraktikum3 {
+    public static void main(String[] args) {
+        int labib = -100;
+        int[] data = new int []{-1,45,8,3,99};
+        System.out.println("Data pada array : ");
+        for(int i = 0; i < data.length; i++){
+            System.out.print(data[i]+"\t");
+            if(data[i] > labib){
+                labib = data[i];
+            }
+        }
+        System.out.println("\n Data Terbesar Dari Array Adalah " + labib);
+    }
+    
+}
