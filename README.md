@@ -1,2 +1,9 @@
-# labib
-be the best
+untuk latihan praktikum satu menggunakan boolean agar menghasilkan situasi benar kemudian menyamakan menggunakan equals untuk tipe String pada code, menggunakan for untuk mengukang mencari data yang benar, Pada latihan praktikum 2 menggunakan boolean agar menghasilkan situasi benar,dan menggunakan for untuk mengulangi pencarian datayang benar, Pada laatihan praktikum 3 menggunakan tanda lebih dari (>)atau kurang dari (<) latihan praktikum 4 menggunakan charArt untuk mencari karakter dan menggunakan for untuk mengulang mencari data yang benar. Paada tugas 1 menggunakan tipe array,mengggunakan bolean agar didapat situasi benar.if untuk mencari pernyataan, juga menggunakan salah satu operator penugasan untuk membantu mencari data yang dicari. pada tugas 2 menggunakan tipe array,menggunkan boolean agar di dapat situasi benar, double digunakan untuk mencari rata rata dikarenakan menggunakan bilangan desimal, dan juga menggunkan salah satu operator penugasan untuk menentukan bilangan. pada tugas 3 menggunakan tipe array,menggunakan for untuk mengulang mencari data yang benar, dan menggunkan operator pembanding juga aritmatikan. pada tugas 4 menggunakan charArt untuk mencari karakter dengan menggunakan if pada setiap karakternya dan terdapat operator aritmatikan untuk menentukan jumlah
+latihan 1 output : Masukkan Data yang Ingin Dicari labib Data Ditemukan!
+latihan 2 output : Masukkan data yang ingin dicari 8 Data ditemukan pada indeks ke-0
+latihan 3 output : Data pada array : -1	45	8	3	99	Data Terbesar Dari Array Adalah 99
+latihan 4 output : Masukkan sebuah kata/kalimat :labib mukharam Jumlah huruf a pada kalimat diatas adalah 3
+tugas 1 output   : Angka yang ingin anda cari : 74 Data adalah : 74	98	72	74	72	90	81	72	Data ada : 2
+tugas 2 output   : Data pada array 30	80	90	100	Nilai Rata-Rata : 75.0 Siswa yang lulus sebanyak : 3
+tugas 3 output   : Data Pada Array : 90	17	9	6	14	Nilai  yang merupakan kelipatan tiga : 90 9 6
+tugas 4 output   : Masukkan sebuah kalimat : labib syah jumlah huruf a pada kalimat diatas adalah : 2 jumlah huruf i pada kalimat diatas adalah : 1 jumlah huruf u pada kalimat diatas adalah : 0 jumlah huruf e pada kalimat diatas adalah : 0 jumlah huruf o pada kalimat diatas adalah : 0
