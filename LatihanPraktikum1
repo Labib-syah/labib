@@ -1,0 +1,33 @@
+
+package tugaspraktikum;
+
+import java.util.Scanner;
+
+
+
+
+ 
+  
+ 
+public class LatihanPraktikum1 {
+    public static void main(String[] args) {
+        String labib;
+        boolean syah = false;
+        String [] data = new String[] {"labib" , "reygo"};
+        Scanner input = new Scanner(System.in);
+        System.out.println("Masukkan Data yang Ingin Dicari");
+        labib = input.nextLine();
+        for (int i =0; i < data.length;i++){
+            if(labib.equals(data[i])){
+                syah = true;
+                break;
+            }
+        }
+        if (syah == true) {
+            System.out.println("Data Ditemukan!");
+        }else{
+            System.out.println("Data Tidak Ditemukan!");
+        }
+    }
+    
+}
