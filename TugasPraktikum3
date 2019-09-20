@@ -1,0 +1,23 @@
+
+package tugaspraktikum;
+
+
+public class TugasPraktikum3 {
+    public static void main(String[] args) {
+        int a = 0;
+        int hasil = 0;
+        int[] nilai = new int[]{90,17,9,6,14};
+        System.out.print("Data Pada Array : ");
+        for (int i = 0; i < nilai.length;i++){
+            System.out.print(nilai[i] + "\t");
+            
+        }
+        System.out.println();
+        System.out.println("Nilai  yang merupakan kelipatan tiga : ");
+        for (int i = 0; i < nilai.length; i++){
+            if (hasil == nilai[i] % 3){
+                System.out.println(nilai[i]);
+            }
+        }
+    }
+}
